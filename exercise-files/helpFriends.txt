@@ -1,4 +1,3 @@
-HELLOEOEO
 Some example text for an exercise, taken from Wikipedia.
 
 You will be given a number from 1 to 4 -- just edit your paragraph. You can 
